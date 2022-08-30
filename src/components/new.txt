@@ -1,2 +1,2 @@
 name = shahida
-age= 26
+age=
